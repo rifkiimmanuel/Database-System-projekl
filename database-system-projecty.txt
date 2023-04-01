@@ -1,2 +1,2 @@
 - Design for main page in database system
-- 2 Login page and 1 register 
+- 2 Login page and 1 page register
